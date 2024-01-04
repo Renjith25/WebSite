@@ -14,6 +14,7 @@ public class GreenTech {
 		String currentUrl = driver.getCurrentUrl();
 		System.out.println(currentUrl);
 		System.out.println("Hello User");
+		System.out.println("Hi User");
 		driver.close();
 	}
 
